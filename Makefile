@@ -12,8 +12,9 @@ make:
 	pip3 install -r requirements.txt
 
     新闻纸
-    邢文治
     卡卡
+    143112131
+    2341
 	#@echo "[+]Set CLOUDSCRAPER_PATH variable"
 	#export cloudscraper_path=$(python3 -c 'import cloudscraper as _; print(_.__path__[0])' | tail -n 1)
 
