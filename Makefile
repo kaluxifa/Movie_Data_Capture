@@ -10,8 +10,8 @@ make:
 	@echo "[+]make prepare-dev"
 	#sudo apt-get -y install python3 python3-pip
 	pip3 install -r requirements.txt
-	pip3 install pyinstaller
 
+    新闻纸
 	#@echo "[+]Set CLOUDSCRAPER_PATH variable"
 	#export cloudscraper_path=$(python3 -c 'import cloudscraper as _; print(_.__path__[0])' | tail -n 1)
 
