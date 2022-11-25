@@ -12,7 +12,7 @@ G_conf_override = {
     # register override config items
     # no need anymore
 }
-#soft测试
+
 #revert测试
 3123
 def getInstance():
