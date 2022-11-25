@@ -13,7 +13,7 @@ G_conf_override = {
     # no need anymore
 }
 
-
+#revert测试
 def getInstance():
     if isinstance(G_conf_override[0], Config):
         return G_conf_override[0]
