@@ -33,6 +33,4 @@
 
 # 下载
 * [Releases](https://github.com/yoshiko2/Movie_Data_Capture/releases/latest)
-
-# 贡献者
-[![](https://opencollective.com/movie_data_capture/contributors.svg?width=890)](https://github.com/yoshiko2/movie_data_Capture/graphs/contributors)
+123
